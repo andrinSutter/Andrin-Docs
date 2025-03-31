@@ -1,3 +1,7 @@
+---
+icon: cube
+---
+
 # SonarQube
 
 SonarQube ist ein leistungsstarkes Tool zur statischen Codeanalyse, das die Codequalität und Sicherheit von Softwareprojekten automatisch überprüft. Es unterstützt zahlreiche Programmiersprachen und hilft Entwicklungsteams, Bugs, Sicherheitslücken und Code-Smells frühzeitig zu erkennen und zu beheben.
@@ -58,7 +62,7 @@ SonarQube sollte in allen Softwareentwicklungs-Umgebungen eingebunden werden. So
 
 Um eine Rückmeldung als **Quality-Gate** für Build-Pipelines in Azure DevOps zu ermöglichen, muss die Integration für jedes Projekt wie im folgenden Bild konfiguriert werden:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Mehr zu SonarQube bei Bühler auf [https://docs.alm.buhlergroup.com/Tools/SonarQube/](https://docs.alm.buhlergroup.com/Tools/SonarQube/)
 
