@@ -60,7 +60,7 @@ Um eine Rückmeldung als **Quality-Gate** für Build-Pipelines in Azure DevOps z
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Mehr zu SonarQube auf [https://docs.alm.buhlergroup.com/Tools/SonarQube/](https://docs.alm.buhlergroup.com/Tools/SonarQube/)
+Mehr zu SonarQube bei Bühler auf [https://docs.alm.buhlergroup.com/Tools/SonarQube/](https://docs.alm.buhlergroup.com/Tools/SonarQube/)
 
 
 

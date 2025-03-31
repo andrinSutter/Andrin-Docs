@@ -16,6 +16,6 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## ITP82
+## ALM
 
-* [SonarQube](itp82/sonarqube.md)
+* [SonarQube](alm/sonarqube.md)
