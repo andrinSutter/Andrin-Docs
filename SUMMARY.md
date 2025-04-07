@@ -21,3 +21,5 @@
 * [Tools](alm/tools/README.md)
   * [SonarQube](alm/tools/sonarqube.md)
   * [Dependency Track](alm/tools/dependency-track.md)
+  * [Terraform](alm/tools/terraform/README.md)
+    * [Task Tracker Terraform Mini Projekt](alm/tools/terraform/task-tracker-terraform-mini-projekt.md)
